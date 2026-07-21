@@ -4,7 +4,9 @@
 
 Alt: A stylish young vampire hunter standing in a dim industrial corridor lit by neon red and magenta. She wears a black tailored three-piece suit with a fitted vest, white shirt and loose pink tie, thigh straps and black stockings, and a long black coat with a crimson lining draped from her shoulders. Short black hair in twin ponytails with magenta tips, glowing crimson eyes with heart-shaped pupils, a sly smirk, and a glowing pink swirl lollipop held in one hand. A giant lollipop weapon is implied.
 
-Image: provided by user (Image 1)
+Image: AI-generated (provided by user)
+
+Credit: AI-generated — provided by repository contributor pikefrost.
 
 ---
 
