@@ -1,0 +1,59 @@
+{
+  "name": "Lust — The Crimson Hunger",
+  "race": "Vampire",
+  "class": "Hunter",
+  "realm": "Gearheaven",
+  "weapon": "Enchanted Giant Lollypop Crossbow",
+
+  "personality": [
+    "Cunning",
+    "Playful",
+    "Confident",
+    "Patient"
+  ],
+
+  "combatStyle": [
+    "Precision Hunter",
+    "Aerial Fighter",
+    "Vampire Reflexes"
+  ],
+
+  "legend": "How many licks till you drop? — Lust",
+
+  "backstory": "Born beneath the crimson moon of Gearheaven, Lust was once a noble vampire heir from a forgotten bloodline that guarded the balance between monsters and mankind. Unlike other vampires who hunted for hunger, Lust believed every creature had a weakness waiting to be discovered. Her curiosity became her greatest weapon. When vampire clans fell into war, Lust refused to join endless battles and became a hunter who studied every opponent, their movements, fears, defenses, and vulnerabilities. She discovered the ancient Lollypop Core, a magical artifact created by forgotten Gearheaven engineers. The weapon transformed emotions into power, allowing Lust to create devastating attacks through imagination itself. Many underestimate her cheerful personality until her first strike lands. Lust hunts for the truth behind vampire magic and the technology that created her weapon.",
+
+  "moves": [
+    {
+      "name": "Lollipop Pierce",
+      "skillTags": [
+        "Snipe",
+        "Pierce"
+      ],
+      "description": "Lust fires an enchanted lollipop projectile with perfect accuracy, striking distant targets and piercing enemy defenses. She identifies openings in enemy protection and delivers a precise attack that bypasses defenses to hit vulnerable points."
+    },
+    {
+      "name": "Lollipop Chain",
+      "skillTags": [
+        "Chain",
+        "Impact"
+      ],
+      "description": "Lust swings her giant lollipop in a rapid chain of strikes, creating the opening for aerial combat. Each impact builds momentum and disrupts enemy balance, preparing enemies for extended pressure from above."
+    },
+    {
+      "name": "Lollipop Blitz",
+      "skillTags": [
+        "Execute",
+        "Blitz"
+      ],
+      "description": "Lust rushes forward with vampire speed, striking with her enchanted giant lollipop before following the enemy into the air. She performs rapid midair attacks from multiple angles and finishes with a devastating upward swing that sends the enemy soaring before crashing down."
+    },
+    {
+      "name": "Lollipop Charge",
+      "skillTags": [
+        "Homing",
+        "Charge"
+      ],
+      "description": "Lust marks her target with crimson energy before charging forward at incredible vampire speed. Her enchanted giant lollipop tracks enemy movement, allowing her to close distance and deliver a direct impact that breaks through defenses."
+    }
+  ]
+}
