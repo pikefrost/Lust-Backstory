@@ -1,0 +1,128 @@
+{
+  "name": "Lust — The Crimson Hunger",
+  "race": "Vampire",
+  "class": "Hunter",
+  "realm": "Gearheaven",
+  "weapon": "Enchanted Giant Lollipop",
+
+  "personality": [
+    "Cunning",
+    "Playful",
+    "Confident",
+    "Patient",
+    "Strategic"
+  ],
+
+  "combat_style": {
+    "primary": "Precision Hunter",
+    "secondary": "Aerial Combo Specialist",
+    "description": "Lust fights using unpredictable movement, precise attacks, and relentless aerial pressure. She studies enemy weaknesses, avoids direct attacks, and turns every opening into a devastating combo."
+  },
+
+  "backstory": {
+    "title": "Vampire Overlord",
+    "story": "Born beneath the crimson moon of Gearheaven, Lust was the final heir of an ancient vampire bloodline known for protecting the balance between monsters and mankind. Unlike warriors who relied only on overwhelming power, Lust believed every opponent had a weakness waiting to be discovered.\n\nHer curiosity became her greatest weapon. She studied combat patterns, learned enemy techniques, and mastered the art of prediction. Instead of carrying a traditional weapon, she transformed an enchanted giant lollipop into a legendary hunter's weapon capable of piercing defenses, controlling the battlefield, and overwhelming enemies with impossible speed.\n\nWhen her vampire clan disappeared during a forgotten conflict, Lust began traveling across Gearheaven searching for the truth. Along her journey, she discovered ancient enchantments hidden within her weapon, unlocking abilities that allowed her to bend attacks around defenses, move faster than sight, and strike before enemies could react.\n\nLust became known as the Crimson Hunger, not because of destruction, but because of her endless desire to challenge stronger opponents and uncover hidden power. To enemies, she is an unpredictable vampire who cannot be stopped. To allies, she is a fearless hunter who always finds the perfect opening."
+  },
+
+  "taleborn_stats": {
+    "power": "MAX",
+    "speed": "MAX",
+    "agility": "MAX",
+    "critical": "MAX",
+    "control": "MAX",
+    "stat_achievement": "Reached through legendary battles, weapon mastery, combat evolution, and overcoming impossible opponents."
+  },
+
+  "combat_abilities": {
+    "strengths": [
+      "Extreme precision",
+      "High-speed movement",
+      "Aerial combo control",
+      "Defense piercing",
+      "Target tracking",
+      "Counter disruption",
+      "Debuff resistance",
+      "Crowd control resistance"
+    ],
+    "special_traits": [
+      "Avoids direct magical attacks",
+      "Avoids direct physical attacks",
+      "Disrupts enemy counters",
+      "Cleanses harmful effects before they interfere",
+      "Maintains combos through control resistance"
+    ]
+  },
+
+  "moves": [
+    {
+      "name": "Lollipop Pierce",
+      "skill_tags": [
+        "SNIPE",
+        "PIERCE"
+      ],
+      "description": "Lust fires an enchanted lollipop projectile with flawless precision, analyzing enemy movement to strike hidden weaknesses. The projectile bends through unpredictable paths, allowing it to avoid direct magical and physical attacks while piercing enemy defenses. The enchantment disrupts counterattacks, cleanses harmful effects before they interfere, and prevents control effects from stopping her aim.",
+      "effects_conditions": [
+        "Long-range precision attack",
+        "Pierces defenses",
+        "Evades magical and physical interception",
+        "Prevents counter attacks",
+        "Resists debuffs and crowd control",
+        "High accuracy projectile"
+      ]
+    },
+
+    {
+      "name": "Lollipop Chain",
+      "subtitle": "Aerial Combat Starter",
+      "skill_tags": [
+        "CHAIN",
+        "IMPACT"
+      ],
+      "description": "Lust unleashes a rapid chain of enchanted lollipop strikes from multiple angles, overwhelming enemy defenses while maintaining aerial pressure. Her flowing combat movement allows her to avoid incoming magical and physical attacks between strikes. Each hit disrupts enemy reactions, preventing counters and protecting the combo from debuffs or crowd control effects. The final strike creates the opening for Lollipop Blitz.",
+      "effects_conditions": [
+        "Multi-hit combo sequence",
+        "Aerial launch setup",
+        "Avoids direct attacks through movement",
+        "Prevents counter attacks",
+        "Resists debuffs and control effects",
+        "Chains into Lollipop Blitz"
+      ],
+      "combo_follow_up": "Lollipop Blitz"
+    },
+
+    {
+      "name": "Lollipop Blitz",
+      "subtitle": "Aerial Combat Finisher",
+      "skill_tags": [
+        "EXECUTE",
+        "BLITZ"
+      ],
+      "description": "Lust accelerates with vampire speed, delivering a devastating aerial execution strike with her enchanted lollipop. Her movement becomes unpredictable, allowing her to bypass incoming magic and physical attacks before the finishing blow lands. The impact overwhelms enemy defenses, preventing counters while resisting debuffs and control effects that could interrupt her execution.",
+      "effects_conditions": [
+        "High-speed execution attack",
+        "Evades direct attacks during movement",
+        "Counter interruption",
+        "Crowd control resistance",
+        "Debuff resistance",
+        "Aerial finishing strike"
+      ]
+    },
+
+    {
+      "name": "Lollipop Charge",
+      "skill_tags": [
+        "HOMING",
+        "CHARGE"
+      ],
+      "description": "Lust marks her target and charges forward with explosive vampire speed. The enchanted lollipop tracks enemy movement while her accelerated movement allows her to bypass incoming attacks and defensive traps. Her momentum disrupts enemy reactions, preventing counters while resisting debuffs and crowd control effects that attempt to stop her advance.",
+      "effects_conditions": [
+        "Target tracking",
+        "High-speed charge",
+        "Avoids magical and physical attacks",
+        "Breaks defenses",
+        "Prevents counters",
+        "Resists debuffs and crowd control"
+      ]
+    }
+  ]
+}
